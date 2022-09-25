@@ -229,7 +229,8 @@ header div:nth-child(2){
 }
 header div i{
     position: relative;
-    top: 25%;
+    top: 28%;
+    font-size: 25px;
 }
 /*==================== EXPLORE ====================*/
 .explore{
